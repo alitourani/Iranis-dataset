@@ -1,6 +1,6 @@
-# Iranian Car License-plates Dataset (IRLP-2020)
+# Persian Characters of Car License-plates Dataset (PCLP-2020)
 
-This repository contains an Iranian Car License-plates dataset, **IRLP-2020**, for machine learning approaches. The dataset contains hundreds of Iranian car license plate images classified into **different variations** including private cars, public vehicles, gevernmental vehicles, free trade zone vehicles, etc. This dataset contains **realistic condition data** in both challenging and straightforward scenarios and the license plate images have been automatically captured in **various illumination, weather, and noise conditions**. Due to the variety of the images, the dataset is a good option for Deep Learning-based applications.
+This repository introduces a dataset of Persian characters retrieved from Iranian Car License-plates, named **PCLP-2020**, for machine learning approaches. The dataset contains thousands of Persian car license plate character images classified. This dataset contains **realistic condition data** retrieved from vehicle images in both challenging and straightforward scenarios and the license plate images have been automatically captured in **various illumination, weather, and noise conditions**. Due to the variety of the poses and brightnesses, the dataset is a good option for Deep Learning-based applications.
 
 ## Charactristics
 | Category | Description | Number of Data |
