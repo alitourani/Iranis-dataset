@@ -8,7 +8,7 @@ This repository contains a large-scale dataset with **more than 83,000** images 
 ### Dataset Charactristics
 
 | Category | Label (class name) | Character | # of Instances |
-| ------------ | ------------ | ------------ |
+| ------------ | ------------ | ------------ | ------------ |
 | Number | 0 | 0 | 2501 |
 | Number | 1 | 1 | 3495 |
 | Number | 2 | 2 | 3930 |
@@ -37,7 +37,6 @@ This repository contains a large-scale dataset with **more than 83,000** images 
 | Letter | PuV (Public Vehicle) | ع | 2508 |
 | Letter | Taxi | ت | 2551 |
 | Symbol | PwD (People with Disabilities) | 🦽 | 2502 |
-
 
 ## Download
 - Devkit (including class labels and bounding boxes): download
