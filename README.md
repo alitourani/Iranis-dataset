@@ -30,7 +30,7 @@ This repository contains a large-scale dataset with **more than 83,000** images 
 | Letter | T | ط | 2512 |
 | Letter | Gh | ق | 2482 |
 | Letter | L | ل | 2502 |
-| Letter | M | م | 250 |
+| Letter | M | م | 2500 |
 | Letter | N | ن | 2558 |
 | Letter | V | و | 2509 |
 | Letter | Y | ی | 2491 |
@@ -38,13 +38,22 @@ This repository contains a large-scale dataset with **more than 83,000** images 
 | Letter | Taxi | ت | 2551 |
 | Symbol | PwD (People with Disabilities) | 🦽 | 2502 |
 
-## Download
-- Devkit (including class labels and bounding boxes): download
+### Also Available on
 
-## Citation
+- Kaggle: ([link](https://www.kaggle.com/sajjadsoroori/iranis "Kaggle"))
+- Data.world: ([link](https://data.world/guilanits/iranis "data.world"))
+
+### Contributers
+
+<a href="https://github.com/alitourani/Iranis-dataset/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=alitourani/Iranis-dataset" />
+</a>
+
+### Acknowledgement
+
+We would like to thank the Technology Incubation Center of the University of Guilan, Guilan Science and Technology Park, and DadeKavan Khazar Pouya company for their kind supports. We also thank all the graduate and undergraduate students who contributed and were involved in acquiring and labeling data.
+
+### Citation
+
 If you have used this dataset, please cite the following paper:
-> A Robust Deep Learning Approach for Automatic Iranian Vehicle License Plate Detection and Recognition for Surveillance Systems
-
-## Contact
-- Ali Tourani ([E-mail](mailto:a.tourani1991@gmail.com "E-mail"), [GitHub](https://github.com/alitourani "GitHub"), [LinkedIn](https://ir.linkedin.com/in/alitourani "LinkedIn"))
-- Sajjad Soroori ([E-mail](mailto:sajjad.soroori@gmail.com "E-mail"), [GitHub](https://github.com/SajjadSo "GitHub"), [LinkedIn](https://www.linkedin.com/in/sajjadso/ "LinkedIn"))
+>  Ali Tourani, Sajjad Soroori, Asadollah Shahbahrami, and Alireza Akoushideh, "**Iranis: A Large-scale Dataset of Farsi License Plate Characters**," ([Link](https://www.researchgate.net/publication/348213017_Iranis_A_Large-scale_Dataset_of_Farsi_License_Plate_Characters "Link"))
