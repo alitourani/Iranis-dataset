@@ -1,7 +1,7 @@
 # Iranis Dataset
 #### A Large-scale Dataset of Farsi License PlateCharacters
 
-This repository contains a large-scale dataset with **more than 83,000** images of Farsi numbers and letters collected from real-world license plate images  captured  by various cameras.
+This repository contains a large-scale dataset with **more than 83,000** images of Farsi numbers and letters collected from real-world license plate images captured by various cameras.
 
 ![Iranis Dataset](https://github.com/alitourani/Iranis-dataset/blob/master/_doc/Iranis_License_Plates.png "Iranis Dataset")
 
