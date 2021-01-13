@@ -1,5 +1,5 @@
 # Iranis Dataset
-#### A Large-scale Dataset of Farsi License PlateCharacters
+#### A Large-scale Dataset of Farsi License Plate Characters
 
 This repository contains a large-scale dataset with **more than 83,000** images of Farsi numbers and letters collected from real-world license plate images captured by various cameras.
 
@@ -37,6 +37,7 @@ This repository contains a large-scale dataset with **more than 83,000** images 
 | Letter | PuV (Public Vehicle) | ع | 2508 |
 | Letter | Taxi | ت | 2551 |
 | Symbol | PwD (People with Disabilities) | 🦽 | 2502 |
+| **Total** |  |  | **83844** |
 
 ### Also Available on
 
