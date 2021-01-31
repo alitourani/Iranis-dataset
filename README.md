@@ -1,11 +1,11 @@
 # Iranis Dataset
-#### A Large-scale Dataset of Farsi License Plate Characters
+**A Large-scale Dataset of Farsi License Plate Characters**
 
 This repository contains a large-scale dataset with **more than 83,000** images of Farsi numbers and letters collected from real-world license plate images captured by various cameras.
 
 ![Iranis Dataset](https://github.com/alitourani/Iranis-dataset/blob/master/_doc/Iranis_License_Plates.png "Iranis Dataset")
 
-### Dataset Charactristics
+## Dataset Charactristics
 
 | Category | Label (class name) | Character | # of Instances |
 | ------------ | ------------ | ------------ | ------------ |
@@ -44,17 +44,17 @@ This repository contains a large-scale dataset with **more than 83,000** images 
 - Kaggle: ([link](https://www.kaggle.com/sajjadsoroori/iranis "Kaggle"))
 - Data.world: ([link](https://data.world/guilanits/iranis "data.world"))
 
-### Contributers
+## 💻 Contributers
 
 <a href="https://github.com/alitourani/Iranis-dataset/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=alitourani/Iranis-dataset" />
 </a>
 
-### Acknowledgement
+## 📝Acknowledgement
 
 We would like to thank the Technology Incubation Center of the University of Guilan, Guilan Science and Technology Park, and DadeKavan Khazar Pouya company for their kind supports. We also thank all the graduate and undergraduate students who contributed and were involved in acquiring and labeling data.
 
-### Citation
+## Citation
 
 If you have used this dataset, please cite the following paper:
 >  Ali Tourani, Sajjad Soroori, Asadollah Shahbahrami, and Alireza Akoushideh, "**Iranis: A Large-scale Dataset of Farsi License Plate Characters**," ([Link](https://www.researchgate.net/publication/348213017_Iranis_A_Large-scale_Dataset_of_Farsi_License_Plate_Characters "Link"))
