@@ -57,4 +57,4 @@ We would like to thank the Technology Incubation Center of the University of Gui
 ## Citation
 
 If you have used this dataset, please cite the following paper:
->  Ali Tourani, Sajjad Soroori, Asadollah Shahbahrami, and Alireza Akoushideh, "**Iranis: A Large-scale Dataset of Farsi License Plate Characters**," ([Link](https://www.researchgate.net/publication/348213017_Iranis_A_Large-scale_Dataset_of_Farsi_License_Plate_Characters "Link"))
+>  Ali Tourani, Sajjad Soroori, Asadollah Shahbahrami, and Alireza Akoushideh, "**Iranis: A Large-scale Dataset of Farsi License Plate Characters**," ([Link](https://arxiv.org/abs/2101.00295 "Link"))
