@@ -57,4 +57,17 @@ We would like to thank the Technology Incubation Center of the University of Gui
 ## Citation
 
 If you have used this dataset, please cite the following paper:
->  Ali Tourani, Sajjad Soroori, Asadollah Shahbahrami, and Alireza Akoushideh, "**Iranis: A Large-scale Dataset of Farsi License Plate Characters**," ([DOI](https://doi.org/10.1109/IPRIA53572.2021.9483461 "DOI"))
+
+```
+@inproceedings{Tourani2021,
+	author = {Tourani, Ali and Soroori, Sajjad and Shahbahrami, Asadollah and Akoushideh, Alireza},
+	title = {{Iranis: A Large-scale Dataset of Iranian Vehicles License Plate Characters}},
+	booktitle = {2021 5th International Conference on Pattern Recognition and Image Analysis (IPRIA)},
+	doi = {10.1109/IPRIA53572.2021.9483461},
+	isbn = {978-1-6654-2659-6},
+	pages = {1--5},
+	publisher = {IEEE},
+	url = {https://ieeexplore.ieee.org/document/9483461/},
+	year = {2021}
+}
+```
